@@ -14,11 +14,7 @@ Members of the Geoffs Clubhouse community are **open, considerate, and respectfu
  * **Respect time, effort and diversity.** Members are respectful of the volunteer nature of the contributions of others and that there is rarely a "right answer". We're respectful when addressing the efforts of others and the different perceptions caused by different experiences, cultures and beliefs.
  * **Respect members' safety and comfort.** Different members have different levels of comfort when it comes to participation, challenge and feedback. As members our over-riding aim is to create a safe environment for everyone to contribute how they feel comfortable to do so.
  * **Consider inclusive language.** Members bring people in to conversations; not exclude them either consciously or unconsciously. We consider our language carefully to encourage this.
-
-
-## Our Standards
-
-Every member of our community has the right to have their identity respected. Geoff's Clubhouse community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
+ *  * **Respect identities.** Every member of our community has the right to have their identity respected. Geoff's Clubhouse community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
 
 ### Scenarios We Wish To Avoid
