@@ -1,22 +1,19 @@
 # Code of Conduct
 
-Geoff's Clubhouse community is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth. When you're working with members of the community, this Code of Conduct will help steer your interactions and keep  Geoff's Clubhouse a positive, successful, and growing community.
+## Our Mission
+
+Geoff's Clubhouse community is an invite-only, subscription-based members club to provide a home for seasoned, yet unconnected agilists to explore and support with some exclusive, pulled content to support their specific challenges and professional growth. It is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth. When you're working with members of the community, this Code of Conduct will help steer your interactions and keep Geoff's Clubhouse a positive, successful, and growing community.
 
 
-## Our Community
+## Our Values
 
 Members of the Geoffs Clubhouse community are **open, considerate, and respectful**. Behaviours that reinforce these values contribute to a positive environment, and include:
 
- * **Being open.** Members of the community are open to collaboration, wherever they are.
- * **Focusing on what is best for the community.** We're respectful of the processes set forth in the community, and we work within them.
- * **Acknowledging time and effort.** We're respectful of the volunteer efforts that permeate Geoff's Clubhouse community. We're thoughtful when addressing the efforts of others, keeping in mind that often times the labor was completed simply for the good of the community.
- * **Being respectful of differing viewpoints and experiences.** We're receptive to constructive comments and criticism, as the experiences and skill sets of other members contribute to the whole of our efforts.
- * **Showing empathy towards other community members.** We're attentive in our communications, whether in person or online, and we're tactful when approaching differing views.
- * **Being considerate.** Members of the community are considerate of their peers -- other Geoffs Clubhouse users.
- * **Being respectful.** We're respectful of others, their positions, their skills, their commitments, and their efforts.
- * **Gracefully accepting constructive criticism.** When we disagree, we are courteous in raising our issues.
- * **Using welcoming and inclusive language.** We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and everyone can make a difference.
-
+ * **Openly share and receive.** Members of the community will share their truth as they see it, receive others truths as they see it and interpret contributions positively.
+ * **Consider what is best for the community.** Members are not here to score points or further themselves at the expense of the community. Community growth and support of one another is our number one priority.
+ * **Respect time, effort and diversity.** Members are respectful of the volunteer nature of the contributions of others and that there is rarely a "right answer". We're respectful when addressing the efforts of others and the different perceptions caused by different experiences, cultures and beliefs.
+ * **Respect members' safety and comfort.** Different members have different levels of comfort when it comes to participation, challenge and feedback. As members our over-riding aim is to create a safe environment for everyone to contribute how they feel comfortable to do so.
+ * **Consider inclusive language.** Members bring people in to conversations; not exclude them either consciously or unconsciously. We consider our language carefully to encourage this.
 
 
 ## Our Standards
@@ -24,9 +21,7 @@ Members of the Geoffs Clubhouse community are **open, considerate, and respectfu
 Every member of our community has the right to have their identity respected. Geoff's Clubhouse community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
 
-### Inappropriate Behavior
-
-Examples of unacceptable behavior by participants include:
+### Scenarios We Wish To Avoid
 
  * Harassment of or threats to any participants in any form
  * Deliberate intimidation, stalking, or following
