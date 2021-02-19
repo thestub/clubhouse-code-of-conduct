@@ -23,6 +23,10 @@ Every member of our community has the right to have their identity respected. Ge
 
 ### Scenarios We Wish To Avoid
 
+ * Misuse of the community's exclusive content
+ * A sense of unfairness if we adopt a PPP-model of payment
+ * Misuse of the community's brand or content for commercial gains
+ * Cultural misunderstandings
  * Harassment of or threats to any participants in any form
  * Deliberate intimidation, stalking, or following
  * Publishing others' private information, such as a physical or electronic address, without explicit permission
